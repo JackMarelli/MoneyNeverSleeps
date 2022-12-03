@@ -1,0 +1,19 @@
+STREAMING
+	Twitch
+	Tiktok
+	Instagram
+	YouTube
+
+GIOCO
+
+Statico: i pixel cambiano solo in base alle donazioni e alle azioni degli spettatori
+
+Sempre acceso: i pixel si contagiano tra di loro anche senza nessuna azione da parte degli spettatori
+
+CASH MONEY
+
+Statico: 1 pixel = cash
+
+Dinamico: powerup per un colore
+
+
